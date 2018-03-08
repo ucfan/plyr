@@ -3934,6 +3934,7 @@
     }
 
     return {
+        Plyr: Plyr,
         setup: setup,
         supported: supported,
         loadSprite: loadSprite,
